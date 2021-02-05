@@ -10,7 +10,8 @@ admin can also view users details.
   - Platform and Tool : MAMP , Sublime Text Editor
   - Operating System : Macintosh
   
-  
-> MAMP sets the password for root so make a customization in db.php has con = mysqli_connect('localhost','root','root','<database_name>')
-> If you are using XAMP or WAMP just remove the password root and keep it empty with quotes.
+--------
+
+- MAMP sets the password for root so make a customization in db.php has con = mysqli_connect('localhost','root','root','<database_name>')
+- If you are using XAMP or WAMP just remove the password root and keep it empty with quotes.
   
