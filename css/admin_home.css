@@ -1,0 +1,36 @@
+.h3{
+    margin:2%;
+    color: white;
+}
+
+
+.card-img-top{
+    float: center;
+   
+}
+
+
+
+.media{
+    background-color: white;
+    margin: 0px;
+    padding: 20px;
+}
+
+.media-body{
+    
+    margin: 10px;
+}
+
+.mt-0{
+    
+    color: black;
+}
+
+p{
+    color: black;
+}
+
+.mb-0{
+    color:red;
+}
